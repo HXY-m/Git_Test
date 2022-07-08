@@ -9,5 +9,6 @@ public class HelloWorld {
         System.out.println("Hello,Git");
         System.out.println("Update!!!");
         System.out.println("Java C++");
+        System.out.println("Hello,Java");
     }
 }
